@@ -54,18 +54,25 @@ Here’s how the repository is organized:
 
 ---
 
+## Certifications
+
+Each section includes details on certifications you can pursue to validate your skills. For example:
+
+- **DevOps**: AWS Certified DevOps Engineer, Azure DevOps Engineer Expert.
+- **Cloud**: AWS Solutions Architect, Google Cloud Professional Architect.
+- **Networking**: Cisco CCNA, CompTIA Network+.
+- **Frontend**: React Developer Certification, Angular Certification.
+- **Backend**: Node.js Certification, Django Certification.
+- **MLOps**: TensorFlow Developer Certificate, AWS Machine Learning Specialty.
+
+---
+
 ## Why Use This Repository?
 
 - **Beginner-Friendly**: Everything is explained in simple language.
 - **Step-by-Step Guides**: Learn at your own pace with clear instructions.
 - **Practical Examples**: Practice with real-world examples and tools.
 - **Comprehensive**: Covers everything you need to become a software engineer.
-
----
-
-## License
-
-This repository is for **learning purposes only**. You are not allowed to use, modify, or distribute the content. See the [LICENSE](LICENSE) file for details.
 
 ---
 
